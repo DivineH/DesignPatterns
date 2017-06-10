@@ -11,13 +11,13 @@ public class DevilActorBuilder extends ActorBuilder{
 	@Override
 	public void buildActorSex() {
 		// TODO Auto-generated method stub
-		actor.setActorType("male");
+		actor.setActorSex("male");
 	}
 
 	@Override
 	public void buildActorCostume() {
 		// TODO Auto-generated method stub
-		actor.setActorType("armour");
+		actor.setActorCostume("armour");
 	}
 
 }
