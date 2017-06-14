@@ -1,7 +1,7 @@
-#¶¯Ì¬´úÀí£º
+# åŠ¨æ€ä»£ç†ï¼š
 
 ```sequence
-title: ¶¯Ì¬´úÀíµ÷ÓÃ¹ý³Ì
+title: åŠ¨æ€ä»£ç†è°ƒç”¨è¿‡ç¨‹
 Client->DynamicProxy: doSomething()
 DynamicProxy -> MyInvocationHandler: invoke()
 MyInvocationHandler -> Subject: "invoke()"
