@@ -13,8 +13,6 @@
   void update(Observable o, Object arg);
   ```
 
-  ?
-
 - **Observable类**
 
    java.util.Observable类充当观察目标类，在Observable中定义了一个向量Vector来存储观察者对象，它所包含的方法及说明如下表所示。
